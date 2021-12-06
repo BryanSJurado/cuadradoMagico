@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cuadradoMagico</string>
+    <string name="txt1">Inserte Número Semilla</string>
+    <string name="btn1">Obtener Semilla</string>
+    <string name="btn2">Iniciar</string>
+    <string name="txtRes">Resultado</string>
+    <string name="txt"></string>
+
+</resources>
