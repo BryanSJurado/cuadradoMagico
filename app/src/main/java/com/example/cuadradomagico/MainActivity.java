@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
             txt4.setText("");
             txt5.setText("");
             txt6.setText("");
-           // txt7.setText("");
+            txt7.setText("");
             txt8.setText("");
             txt9.setText("");
             txt10.setText("");
